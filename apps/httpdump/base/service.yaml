@@ -5,6 +5,7 @@ metadata:
   labels:
     app: httpdump
     service: httpdump
+    test: "4"
 spec:
   ports:
     - name: http
