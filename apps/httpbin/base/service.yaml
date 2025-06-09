@@ -5,6 +5,7 @@ metadata:
   labels:
     app: httpbin
     service: httpbin
+    test: "2"
 spec:
   ports:
     - name: http
